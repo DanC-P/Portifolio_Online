@@ -1,0 +1,42 @@
+# Portfólio Online
+
+Este projeto será meu portfólio online para divulgação do meu trabalho, projetos e habilidades como desenvolvedor.  
+A aplicação terá uma identidade visual futurista, minimalista e monocromática, com foco em performance, responsividade e experiência do usuário.
+
+## Preview
+
+> Em desenvolvimento.
+
+## Tecnologias
+
+- Angular
+- Angular SSR
+- Tailwind CSS
+- AOS
+- Lucide Angular
+- EmailJS
+- Ngx-Translate
+- GitHub REST API
+- Ngx-Markdown
+
+## Funcionalidades
+
+- Exibição dinâmica das habilidades e tecnologias do desenvolvedor
+- Dashboard com estatísticas das linguagens e tecnologias mais utilizadas
+- Sistema de contato integrado
+- Internacionalização da aplicação
+- Integração com a API do GitHub
+- Renderização server-side (SSR)
+- Interface responsiva e animada
+
+## Objetivos do Projeto
+
+- Consolidar conhecimentos em Angular
+- Criar um portfólio moderno e escalável
+- Aplicar conceitos de SSR e performance
+- Melhorar práticas de UI/UX
+- Centralizar projetos e informações profissionais
+
+## Status
+
+🚧 Projeto em desenvolvimento.

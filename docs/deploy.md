@@ -2,13 +2,10 @@
 
 ## Plataforma
 
-Frontend:
-
-- Vercel
+- GitHub Pages
 
 ## Build
 
 ```bash
-npm run build
-
+ng build --base-href "https://SEUUSUARIO.github.io/NOME-REPOSITORIO/"
 ```

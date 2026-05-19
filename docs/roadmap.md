@@ -4,19 +4,18 @@
 
 - [ ] Landing page inicial
 - [ ] Tema monocromático
-- [ ] Responsividade mobile
 - [ ] Sistema de animações
+- [ ] Responsividade mobile
 
 ## Funcionalidades
 
-- [ ] Alternância entre tema claro e escuro
-- [ ] Persistência do tema do usuário
-- [ ] Integração GitHub
-- [ ] Dashboard de estatísticas
-- [ ] Sistema de contato
-- [ ] Multi idiomas
+- [ ] Dashboard GitHub
+- [ ] Sistema de temas
+- [ ] Internacionalização
+- [ ] Sistema de projetos dinâmicos
 
-## Futuro
+## Estrutura
 
-- [ ] CMS administrativo
-- [ ] Sistema de projetos destacados
+- [ ] Organização modular
+- [ ] Estruturação dos dados locais
+- [ ] Deploy no GitHub Pages

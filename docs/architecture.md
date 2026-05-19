@@ -1,15 +1,17 @@
-# Arquitecture
+# Arquitetura
 
 ## Frontend
 
 - Angular
-- Angular SSR
 - Tailwind CSS
 
-## APIs
+Responsável por:
 
-- GitHub REST API
-- EmailJS
+- Interface
+- Renderização da aplicação
+- Consumo da GitHub REST API
+- Internacionalização
+- Sistema de temas
 
 ## Bibliotecas
 
@@ -18,9 +20,18 @@
 - Ngx-Markdown
 - Ngx-Translate
 
-## Objetos Técnicos
+## Estrutura de Dados
 
-- SEO melhorado utilizando SSR
-- Alta perfomance
-- Interface responsiva
+Os dados da aplicação serão inicialmente armazenados localmente utilizando arquivos JSON/TypeScript.
+
+## Deploy
+
+- GitHub Pages
+
+## Objetivos Técnicos
+
+- Alta performance
 - Estrutura escalável
+- Organização modular
+- Baixo custo de manutenção
+- Hospedagem gratuita

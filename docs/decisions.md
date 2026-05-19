@@ -4,17 +4,9 @@
 
 Escolhido pela sua robustez para aplicações single-page (SPA), componentização avançada e boa escalabilidade para projetos frontend maiores.
 
-## Uso do Angular SSR
-
-Escolhido para melhorar SEO, performance inicial da aplicação e tempo de carregamento do primeiro conteúdo renderizado.
-
 ## Uso da GitHub REST API
 
 Escolhido para permitir visualização dinâmica dos projetos e informações do GitHub sem necessidade de atualização manual do portfólio.
-
-## Uso do Resend
-
-Escolhido para implementação do sistema de contato via e-mail utilizando uma abordagem mais segura e moderna baseada em API.
 
 ## Uso do Lucide Angular
 
@@ -36,6 +28,18 @@ Escolhido para possibilitar internacionalização (i18n) da aplicação e suport
 
 Escolhido para implementação simplificada de animações durante scroll e melhoria da experiência visual da interface.
 
-## Arquitetura SPA + SSR
+## Uso do GitHub Pages
 
-A aplicação utilizará abordagem híbrida entre SPA e SSR visando equilibrar experiência do usuário, SEO e performance.
+Escolhido para permitir hospedagem gratuita e sustentável do projeto.
+
+## Uso de dados locais
+
+Escolhido inicialmente para simplificar arquitetura e reduzir dependências de backend e banco de dados.
+
+## Uso do ChatGPT como assistente de desenvolvimento
+
+Utilizado como ferramenta de apoio para pesquisa, arquitetura, documentação, resolução de problemas e aceleração do desenvolvimento do projeto.
+
+## Uso do Canva para prototipagem visual
+
+Escolhido para auxiliar na idealização da interface, organização visual e definição do design inicial da aplicação.

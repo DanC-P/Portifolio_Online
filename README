@@ -10,24 +10,21 @@ A aplicação terá uma identidade visual futurista, minimalista e monocromátic
 ## Tecnologias
 
 - Angular
-- Angular SSR
 - Tailwind CSS
 - AOS
 - Lucide Angular
-- EmailJS
 - Ngx-Translate
-- GitHub REST API
 - Ngx-Markdown
+- GitHub REST API
 
 ## Funcionalidades
 
-- Exibição dinâmica das habilidades e tecnologias do desenvolvedor
-- Dashboard com estatísticas das linguagens e tecnologias mais utilizadas
-- Sistema de contato integrado
+- Exibição dinâmica das habilidades do desenvolvedor
+- Dashboard com estatísticas do GitHub
+- Sistema de contato
 - Internacionalização da aplicação
-- Integração com a API do GitHub
-- Renderização server-side (SSR)
 - Interface responsiva e animada
+- Alternância de temas
 
 ## Objetivos do Projeto
 
@@ -36,6 +33,8 @@ A aplicação terá uma identidade visual futurista, minimalista e monocromátic
 - Aplicar conceitos de SSR e performance
 - Melhorar práticas de UI/UX
 - Centralizar projetos e informações profissionais
+- Criar um portfólio leve e sustentável
+- Possibilitar hospedagem gratuita via GitHub Pages
 
 ## Status
 

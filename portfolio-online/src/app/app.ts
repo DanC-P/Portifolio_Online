@@ -1,14 +1,10 @@
 import { Component, signal } from '@angular/core';
-import { RouterOutlet } from '@angular/router';
 import { SidebarApp } from './components/sidebar-app/sidebar-app';
-import { HeaderApp } from './components/header-app/header-app';
-import { SkillsApp } from './components/skills-app/skills-app';
-import { LanguagesApp } from './components/languages-app/languages-app';
-import { ToolsApp } from './components/tools-app/tools-app';
+import { HomePage } from './pages/home-page/home-page';
 
 @Component({
   selector: 'app-root',
-  imports: [SidebarApp, HeaderApp, SkillsApp, LanguagesApp, ToolsApp],
+  imports: [SidebarApp, HomePage],
   templateUrl: './app.html',
   styleUrl: './app.css',
 })

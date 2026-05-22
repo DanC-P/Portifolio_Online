@@ -1,9 +1,16 @@
 import { Component } from '@angular/core';
-import { LucideMoon, LucideSun } from '@lucide/angular';
+import {
+  LucideMoon,
+  LucideSun,
+  LucideHouse,
+  LucideZap,
+  LucideCode,
+  LucideWrench,
+} from '@lucide/angular';
 
 @Component({
   selector: 'app-sidebar-app',
-  imports: [LucideMoon, LucideSun],
+  imports: [LucideMoon, LucideSun, LucideHouse, LucideZap, LucideCode, LucideWrench],
   templateUrl: './sidebar-app.html',
   styleUrl: './sidebar-app.css',
 })

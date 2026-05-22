@@ -45,14 +45,6 @@ body {
   font-family: 'Space Mono', monospace;
 }
 
-.sidebar {
-  background: var(--bg-sidebar);
-  backdrop-filter: blur(12px);
-  border-color: var(--border);
-  transition:
-    background 0.4s,
-    border-color 0.4s;
-}
 @keyframes shimmer {
   0% {
     background-position: -200% center;

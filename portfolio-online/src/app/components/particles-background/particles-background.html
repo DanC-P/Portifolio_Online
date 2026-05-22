@@ -1,0 +1,12 @@
+<div class="particles-container">
+  @for (particle of particles; track particle) {
+    <div
+      class="particle"
+      [style.left.%]="particle.left"
+      [style.animation-duration.s]="particle.duration"
+      [style.animation-delay.s]="particle.delay"
+      [style.width.px]="particle.size"
+      [style.height.px]="particle.size"
+    ></div>
+  }
+</div>

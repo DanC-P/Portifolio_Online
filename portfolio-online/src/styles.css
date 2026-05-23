@@ -28,7 +28,7 @@
   --pill-border: rgba(0, 0, 0, 0.15);
   --pill-hover-bg: rgba(0, 0, 0, 0.1);
   --glow: rgba(0, 0, 0, 0.15);
-  --particle-color: rgba(0, 0, 0, 0.2);
+  --particle-color: rgba(0, 0, 0, 0.4);
 }
 
 body {

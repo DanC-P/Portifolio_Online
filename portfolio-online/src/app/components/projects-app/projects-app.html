@@ -1,0 +1,20 @@
+<section id="projects" class="mb-20 animate-in" style="animation-delay: 0.3s">
+  <div class="section-bar mb-4"></div>
+  <h2 class="font-mono text-sm tracking-widest uppercase mb-6">Projetos</h2>
+
+  <div class="grid gap-4">
+    @for (project of listOfProjects; track project.name) {
+      <div class="simply-card p-5 rounded-lg">
+        <h3 class="project-title font-semibold mb-2">
+          {{ project.name }}
+        </h3>
+
+        <p class="project-desc text-sm">
+          {{ project.description }}
+        </p>
+      </div>
+    } @empty {
+      <p class="text-sm opacity-50 italic">Nenhum projeto para exibir.</p>
+    }
+  </div>
+</section>

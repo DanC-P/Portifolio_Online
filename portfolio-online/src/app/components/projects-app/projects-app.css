@@ -1,0 +1,19 @@
+.simply-card {
+  background-color: var(--bg-secondary);
+  border: 1px solid var(--border);
+  transition:
+    border-color 0.3s ease,
+    background-color 0.4s ease;
+}
+
+.canva-card:hover {
+  border-color: var(--accent);
+}
+
+.project-title {
+  color: var(--text-primary);
+}
+
+.project-desc {
+  color: var(--text-secondary); /* Dá o tom cinza mais claro do modelo */
+}

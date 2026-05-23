@@ -4,10 +4,11 @@ import { HeaderApp } from '../../components/header-app/header-app';
 import { SkillsApp } from '../../components/skills-app/skills-app';
 import { LanguagesApp } from '../../components/languages-app/languages-app';
 import { ToolsApp } from '../../components/tools-app/tools-app';
+import { ProjectsApp } from '../../components/projects-app/projects-app';
 
 @Component({
   selector: 'app-home-page',
-  imports: [HeaderApp, SkillsApp, LanguagesApp, ToolsApp],
+  imports: [HeaderApp, SkillsApp, LanguagesApp, ToolsApp, ProjectsApp],
   templateUrl: './home-page.html',
   styleUrl: './home-page.css',
 })

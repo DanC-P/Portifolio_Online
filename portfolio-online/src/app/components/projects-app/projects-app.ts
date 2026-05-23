@@ -3,6 +3,7 @@ import { Component } from '@angular/core';
 interface project {
   name: string;
   description: string;
+  status: string;
 }
 
 @Component({
@@ -14,12 +15,16 @@ interface project {
 export class ProjectsApp {
   listOfProjects: project[] = [
     {
-      name: 'VetSite - WebSite Catalogo de Vendas Online Via Whats',
-      description: 'teste',
+      name: 'VetSite',
+      description:
+        'Plataforma web desenvolvida para catálogo e divulgação de produtos veterinários com integração direcionada para atendimento via WhatsApp. Projeto desenvolvido utilizando Django, React e TailwindCSS.',
+      status: 'Projeto Pessoal',
     },
     {
-      name: 'Portfolio Online Hospedado no Github',
-      description: 'teste',
+      name: 'Portfolio',
+      description:
+        'Portfólio pessoal desenvolvido com Angular standalone, TailwindCSS e TypeScript, utilizando arquitetura componentizada, renderização reativa e hospedagem via GitHub Pages.',
+      status: 'Ativo',
     },
   ];
 }

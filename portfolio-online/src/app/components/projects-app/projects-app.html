@@ -5,9 +5,15 @@
   <div class="grid gap-4">
     @for (project of listOfProjects; track project.name) {
       <div class="simply-card p-5 rounded-lg">
-        <h3 class="project-title font-semibold mb-2">
-          {{ project.name }}
-        </h3>
+        <div class="flex items-center justify-between mb-2">
+          <h3 class="project-title font-semibold">
+            {{ project.name }}
+          </h3>
+
+          <span class="status-pill px-3 py-1 rounded-full text-[10px] font-mono uppercase">
+            {{ project.status }}
+          </span>
+        </div>
 
         <p class="project-desc text-sm">
           {{ project.description }}

@@ -1,8 +1,9 @@
 import { Component } from '@angular/core';
+import { LucideMail } from '@lucide/angular';
 
 @Component({
   selector: 'app-header-app',
-  imports: [],
+  imports: [LucideMail],
   templateUrl: './header-app.html',
   styleUrl: './header-app.css',
 })

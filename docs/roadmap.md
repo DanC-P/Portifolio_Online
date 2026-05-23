@@ -2,20 +2,22 @@
 
 ## Interface
 
-- [ ] Landing page inicial
-- [ ] Tema monocromático
-- [ ] Sistema de animações
-- [ ] Responsividade mobile
+- [x] Landing page inicial
+- [x] Tema monocromático
+- [x] Responsividade mobile
+- [x] Componentização da interface
+- [ ] Sistema avançado de animações
 
 ## Funcionalidades
 
 - [ ] Dashboard GitHub
 - [ ] Sistema de temas
 - [ ] Internacionalização
-- [ ] Sistema de projetos dinâmicos
+- [ ] Projetos dinâmicos
+- [ ] Integração com Web3Forms
 
 ## Estrutura
 
-- [ ] Organização modular
-- [ ] Estruturação dos dados locais
-- [ ] Deploy no GitHub Pages
+- [x] Organização modular
+- [x] Deploy GitHub Pages
+- [ ] Estruturação avançada dos dados

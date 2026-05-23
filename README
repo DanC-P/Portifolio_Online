@@ -1,41 +1,71 @@
-# Portfólio Online
+# Portfolio Website
 
-Este projeto será meu portfólio online para divulgação do meu trabalho, projetos e habilidades como desenvolvedor.  
-A aplicação terá uma identidade visual futurista, minimalista e monocromática, com foco em performance, responsividade e experiência do usuário.
+Portfólio pessoal desenvolvido para apresentar projetos, habilidades e experiências relacionadas ao desenvolvimento web frontend e full stack.
+
+A aplicação foi construída utilizando Angular moderno com arquitetura standalone, TailwindCSS e TypeScript, seguindo uma abordagem componentizada, reativa e escalável.
 
 ## Preview
 
-> Em desenvolvimento.
+> Em desenvolvimento — versão inicial (v1.0)
 
 ## Tecnologias
 
-- Angular
-- Tailwind CSS
-- AOS
+### Frontend
+
+- Angular Standalone
+- TypeScript
+- TailwindCSS
 - Lucide Angular
-- Ngx-Translate
-- Ngx-Markdown
-- GitHub REST API
+
+### Ferramentas e Deploy
+
+- GitHub Pages
+- Git
+- GitHub
 
 ## Funcionalidades
 
-- Exibição dinâmica das habilidades do desenvolvedor
-- Dashboard com estatísticas do GitHub
-- Sistema de contato
-- Internacionalização da aplicação
-- Interface responsiva e animada
-- Alternância de temas
+- Interface responsiva
+- Estrutura componentizada
+- Sistema de navegação lateral
+- Seção de projetos
+- Exibição de habilidades e ferramentas
+- Particles background animado
+- Links externos para contato e redes sociais
+
+## Estrutura do Projeto
+
+```txt
+src/
+ ├── app/
+ │    ├── components/
+ │    ├── pages/
+ ├── public/
+ └── styles/
+```
 
 ## Objetivos do Projeto
 
-- Consolidar conhecimentos em Angular
-- Criar um portfólio moderno e escalável
-- Aplicar conceitos de SSR e performance
+- Consolidar conhecimentos em Angular moderno
+- Aplicar boas práticas de componentização
+- Desenvolver uma arquitetura frontend escalável
 - Melhorar práticas de UI/UX
-- Centralizar projetos e informações profissionais
 - Criar um portfólio leve e sustentável
 - Possibilitar hospedagem gratuita via GitHub Pages
 
+## Roadmap Futuro
+
+- Dashboard integrado com GitHub REST API
+- Sistema de internacionalização
+- Sistema de temas
+- Projetos dinâmicos
+- Integração com Web3Forms
+- Melhorias de animação e experiência visual
+
+## Deploy
+
+Hospedado utilizando GitHub Pages.
+
 ## Status
 
-🚧 Projeto em desenvolvimento.
+🚧 Em desenvolvimento — versão v1.0

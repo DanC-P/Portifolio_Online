@@ -7,5 +7,5 @@
 ## Build
 
 ```bash
-ng build --base-href "https://SEUUSUARIO.github.io/NOME-REPOSITORIO/"
+ng build --base-href="/Portifolio_Online/"
 ```
